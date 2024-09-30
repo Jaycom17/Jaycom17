@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="width:100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <p><img width="400" height="120" src="https://github-readme-stats.vercel.app/api?username=Jaycom17&theme=tokyonight&show_icons=true/460/300"></p>
 
   <p><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaycom17&show_icons=true&locale=en&layout=compact&theme=tokyonight"></p>
