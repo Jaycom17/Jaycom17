@@ -6,3 +6,11 @@
 
 </div>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Jaycom17&theme=tokyonight&show_icons=true/460/300">
+
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaycom17&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+
+<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaycom17&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+
