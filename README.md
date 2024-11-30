@@ -8,7 +8,7 @@
 <div align="start">
   
 - :school: I am a `student` at [Universidad del Cauca](https://www.unicauca.edu.co/).
-- :student: I’m currently learning `Software Engineering` and `Italian Language`.
+- :student: I’m currently learning `Software Engineering`, `Backend Development` and `Software Architecture`.
 - :nerd_face: I'm curious for `learning new things`.
 
 </div>
